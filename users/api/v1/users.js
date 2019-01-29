@@ -1,8 +1,6 @@
 const fs = require('fs');
 
 let getUsers = (request, response) => {
-
-  console.log('getUsers');
  
   fs.readFile('api/db.json', (error, data) => {
     

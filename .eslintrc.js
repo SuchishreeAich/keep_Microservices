@@ -7,7 +7,8 @@ module.exports = {
   },
   "env": {
     "es6": true,
-    "jasmine": true
+    "jasmine": true,
+    "node": true
   },
   "parserOptions": {
     "sourceType": "module"
