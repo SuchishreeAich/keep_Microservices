@@ -1,0 +1,32 @@
+{
+    "notes": [
+      {
+        "noteId": 1,
+        "title": "First Note title for user 1",
+        "text": "First Note text for user 1",
+        "state": "started",
+        "userId" : "1"
+      },
+      {
+        "noteId": 2,
+        "title": "Second Note title for user 1",
+        "text": "Second Note text for user 1",
+        "state": "completed",
+        "userId" : "1"
+      },
+      {
+        "noteId": 3,
+        "title": "First Note title for user 2",
+        "text": "First Note text for user 2",
+        "state": "completed",
+        "userId" : "2"
+      },
+      {
+        "noteId": 4,
+        "title": "First Note title for user 3",
+        "text": "First Note text for user 3",
+        "state": "started",
+        "userId" : "3"
+      }
+    ]
+  }

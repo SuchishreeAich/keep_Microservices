@@ -1,0 +1,5 @@
+node_modules/
+apigateway/package-lock.json
+web/package-lock.json
+users/package-lock.json
+notes/package-lock.json
