@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "mocha ./test/*.js",
-    "lint": "eslint \"**/*.js\" --ignore-path .eslintignore"
+    "lint": "node_modules/.bin/eslint './**/*.js' --ignore-path .eslintignore"
   },
   "keywords": [],
   "author": "",
@@ -19,7 +19,7 @@
     "mocha": "^5.2.0"
   },
   "devDependencies": {
-    "eslint": "^5.12.1",
+    "eslint": "^5.12.0",
     "eslint-plugin-jasmine": "^2.10.1",
     "chai-http": "^4.2.1",
     "express": "^4.16.4",
