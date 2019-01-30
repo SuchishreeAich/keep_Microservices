@@ -1,5 +1,5 @@
 const app = require('../app');
-const config = require('../config');
+const port = 8001;
 
-app.listen(config.PORT, () => {
+app.listen(port, () => {
 })
