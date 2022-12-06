@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "chai-http": "^4.2.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "http-proxy-middleware": "^0.19.1",
     "eslint": "^5.12.1",
     "eslint-plugin-jasmine": "^2.10.1"    
